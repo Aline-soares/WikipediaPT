@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b689534c-de77-4590-82b9-10cb82ad73ea" name="Default Changelist" comment="Segunda tentativa">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/chrome/90/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/simples/Artigo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Post.feature" afterDir="false" />
+    <list default="true" id="b689534c-de77-4590-82b9-10cb82ad73ea" name="Default Changelist" comment="Terceira tentativa">
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/Post.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +144,14 @@
       <option name="presentableId" value="Default" />
       <updated>1621439919574</updated>
     </task>
+    <task id="LOCAL-00001" summary="Terceira tentativa">
+      <created>1623273951931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623273951931</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Segunda tentativa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segunda tentativa" />
+    <MESSAGE value="Terceira tentativa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terceira tentativa" />
   </component>
 </project>
